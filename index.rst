@@ -15,7 +15,9 @@ Les études portent principalement sur les situations voisines du point critique
 
 Les représentations du DF que nous avons trouvées dans la littérature font fugurer le régime congestionné jusqu'à la concentration maximale, point où le débit tombe à zéro. Cependant, les données observées sont éloignées de l'extrémité du DF. Les valeurs de la concentration qui apparaissent dans les documents consultés sont toujours inférieures à 50 veh/km/voie et les valeurs des vitesses supérieures à 30 km/h.
 
-En Ile de France, il est fréquent d'observer des vitesses inférieures à 20 km/h sur les autoroutes radiales vers Paris et sur la rocade A86. C'est même sur certaines sections la situation habituelle à l'heure de pointe. Il est donc possible d'étudier comment se comporte le trafic fortement congestionné.
+En Ile de France, il est fréquent d'observer des vitesses inférieures à 20 km/h sur les autoroutes radiales vers Paris et sur la rocade A86. C'est même sur certaines sections la situation habituelle à l'heure de pointe.
+
+Le réseau routier structurant de l'Ile de France est donc un bon laboratoire pour étudier comment se comporte le trafic fortement congestionné.
 
 Références :
 --------------
