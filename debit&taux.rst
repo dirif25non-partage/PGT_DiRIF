@@ -14,7 +14,8 @@ Stations congestionnés
 ---------------------------
 Pour ce projet on sélectionne les 50 stations qui font apparaître les  régimes de plus fortes congestions c'est -à -dire des taux d’occupation supérieurs à 40%.
 
-
 `XX  <./_static/forteCong.html>`_
 
+.. raw:: html
+    <iframe src="./_static/forteCong.html" height="345px" width="100%"></iframe>
 
