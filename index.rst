@@ -8,7 +8,8 @@ Régime de forte congestion
    debit&taux
    gtc
 
- La théorie du trafic routier étudie les relations entre débit, vitesse et concentration. Pour les applications ordinaires, elle propose le modèle du diagramme fondamental (DF) "triangulaire". Ce schéma représente la relation entre la concentation et le débit selon deux droites correspondant aux régimes fluide et congestionné.
+
+La théorie du trafic routier étudie les relations entre débit, vitesse et concentration. Pour les applications ordinaires, elle propose le modèle du diagramme fondamental (DF) "triangulaire". Ce schéma représente la relation entre la concentation et le débit selon deux droites correspondant aux régimes fluide et congestionné.
 
 Les études portent principalement sur les situations voisines du point critique pour lesquelles le débit est proche de la capacité. Le comportement du trafic lorsque la vitesse est inférieure à 30 km/h et que le débit est fortement réduit est peu étudié.
 
@@ -18,7 +19,7 @@ En Ile de France, il est fréquent d'observer des vitesses inférieures à 20 km
 
 Références :
 --------------
-Comprendre le trafic routier - Méthodes et calculs (Christine Buisson, Jean-Baptiste Lesort ; 2010)
+Comprendre le trafic routier - Méthodes et calculs (Christine Buisson, Jean-Baptiste Lesort ; 2010)   
 Théorie du trafic et régulation dynamique (Cerema ; 2018)
 
 
