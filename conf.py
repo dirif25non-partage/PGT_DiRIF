@@ -19,3 +19,8 @@ html_theme = 'furo'
 html_static_path = ['_static']
 html_show_copyright = False
 html_show_sphinx = False
+html_theme_options = {
+    "sidebar_hide_name": True,
+    "light_logo": "fortC.svg",
+    "dark_logo": "fortC.svg",
+}
