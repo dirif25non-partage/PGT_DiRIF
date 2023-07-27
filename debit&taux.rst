@@ -3,6 +3,7 @@ Données de débit et de taux d'occupation
 Station de comptage
 ---------------------
 La DiRIF a l'objectif d'exploiter 800 stations de comptage sur son réseau. L'obsolescence et les aléas font qu'à un moment donné seulement la moitié environ des stations sont opérationnelles. 
+
 Données produites
 -----------------
 Les stations remontent des données de débit et de taux d’occupation sur des périodes de 6mn, soit 2 x 240 données par jour qui sont archivées durablement. Les 5 dernières années sont disponibles *en ligne*. Un historique de 15 ans est disponible en archivage.
