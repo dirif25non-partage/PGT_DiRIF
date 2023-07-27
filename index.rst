@@ -20,6 +20,7 @@ En Ile de France, il est fréquent d'observer des vitesses inférieures à 20 km
 Références :
 --------------
 Comprendre le trafic routier - Méthodes et calculs (Christine Buisson, Jean-Baptiste Lesort ; 2010)   
+
 Théorie du trafic et régulation dynamique (Cerema ; 2018)
 
 
