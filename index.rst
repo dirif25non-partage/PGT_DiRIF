@@ -1,28 +1,20 @@
-Régime de forte congestion
+PGT (Plan de Gestion de Trafic) dans SIRIUS
 ==========================
 
 .. toctree::
    :hidden:
    :maxdepth: 3
 
-   debit&taux
-   gtc
+   création   
+   journaux
+    
 
+Ce document vise à partager des informations au sein du DETT sur la création et l'utilisation des PGT.  
+On utilise le mot PGT dans le sens particulier qu'il a dans l'application SIRIUS et non dans le sens plus général de PGT que l'on trouve dans des documents sur la gestion du trafic.  
 
-La théorie du trafic routier étudie les relations entre débit, vitesse et concentration. Pour les applications ordinaires, elle propose le modèle du diagramme fondamental (DF) "triangulaire". Ce schéma représente la relation entre la concentation et le débit selon deux droites correspondant aux régimes fluide et congestionné.
-
-Les études portent principalement sur les situations voisines du point critique pour lesquelles le débit est proche de la capacité. Le comportement du trafic lorsque la vitesse est inférieure à 30 km/h et que le débit est fortement réduit est peu étudié.
-
-Les représentations du DF que nous avons trouvées dans la littérature font fugurer le régime congestionné jusqu'à la concentration maximale, point où le débit tombe à zéro. Cependant, les données observées sont éloignées de l'extrémité du DF. Les valeurs de la concentration qui apparaissent dans les documents consultés sont toujours inférieures à 50 veh/km/voie et les valeurs des vitesses supérieures à 30 km/h.
-
-En Ile de France, il est fréquent d'observer des vitesses inférieures à 20 km/h sur les autoroutes radiales vers Paris et sur la rocade A86. C'est même sur certaines sections la situation habituelle à l'heure de pointe.
-
-Le réseau routier structurant de l'Ile de France est donc un bon laboratoire pour étudier comment se comporte le trafic fortement congestionné.
-
-Références :
---------------
-Comprendre le trafic routier - Méthodes et calculs (Christine Buisson, Jean-Baptiste Lesort ; 2010)   
-
-Théorie du trafic et régulation dynamique (Cerema ; 2018)
-
-
+Qu'est-ce qu'un PGT ?
+----------------------
+Un PGT est un objet de l'application SIRIUS qui sert à activier un ensemble de signaux dynamiques :PMV, B14, R1, R24, barière de fermeture de tunnel. Les PGT permettent donc d'afficher des consignes que doivent respecter les automobilistes, des informations ou des conseils.
+Les OST activent ou désactivent des PGT en concertation avec les RI (CEI) pour mettre en place la signalisation dynamique adaptée aux interventions sur la route telles qu'un balisage de fermeture pour réaliser des travaux.
+Le SAGTU peut déclencher un PGT en cas d'incident dans un tunnel.  
+Quand un OST déclare un incident (panne, accident, objet sur la chaussée ...) SIRIUS déclenche des affichages sur les PMV mais il ne s'agit pas de PGT.
