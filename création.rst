@@ -37,5 +37,5 @@ Le second niveau désigne le secteur concerné, par exemple :
 * A86I_A15 > A3                            
 * A1Y              
 
-Le troisième niveau désigne un PGT particulier qui peut être une variante ou une composante d'un ensemble d'actions lées entre elles.
+Le troisième niveau désigne un PGT particulier qui peut être une variante ou une composante d'un ensemble d'actions liées entre elles.
 
