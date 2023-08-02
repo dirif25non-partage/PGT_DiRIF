@@ -5,7 +5,8 @@ PGT (Plan de Gestion de Trafic) dans SIRIUS
    :hidden:
    :maxdepth: 3
 
-   création   
+   création
+   utilisation
    journaux
     
 
