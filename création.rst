@@ -13,9 +13,9 @@ Ils comportent 3 niveaux.
 
 Le premier niveau désigne une catégorie de PGT, par exemple : 
 
-. 02O_FERMPROG, 
-. 03E_TRAV_Fermeture, 
-. 05_DELEST_SN, ,
+*02O_FERMPROG, 
+* 03E_TRAV_Fermeture, 
+* 05_DELEST_SN, ,
  07S_PPA_PNVIF, 
 10_PPA_ministere    
 13S_VOIE_DEDIEE,
