@@ -1,4 +1,0 @@
-Les objectifs
-=============
-
-A définir
