@@ -13,6 +13,7 @@ Les PGT sont organisés en arborescence.
 Ils comportent 3 niveaux.
 
 Le premier niveau désigne une catégorie de PGT, par exemple : 
+
 * 00S_FERMURG_Présignal
 * 02E_FERM
 * 02O_FERMPROG, 
