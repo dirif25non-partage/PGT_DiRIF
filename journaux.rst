@@ -30,4 +30,25 @@ Les champs utiles pour exploiter les données sont les suivants :
 * 'NOM_COMPTE' (Nom de l'OST connecté à SIRIUS ou PASSERELLE SAGTU, il faut savoir que les OST ne s'identifient pas toujours et qu'un même compte reste parfois ouvert perdant plusieurs vacations.)
 * 'DESCRIPTION'  (Désignation du PGT)
 
+Interprétation des données 
+--------------------------
+Pour interpréter les journaux des PGT, il faut bien comprendre ce qui s'y trouve enregistré.
+
+On identifie ci dessous quelques curiosité qui appellent des explications.
+
+Sequence d'activation et désactivation
+.........................................
+Sur les mois de mai et juin 2023, on observe 1381 désactivations et 1139 activations. Soit 20 % de plus de désactivations.
+
+L'importance du désequilibre entre les activations et les désactivations est variable selon le type de PGT.
+
+
+
+Si l'on examine les suites d'enregistrements d'un même PGT, on trouve très fréquement plusieurs activations ou plusieurs désactivations successives, à quelques secondes ou minutes d'intervale.
+
+
+
+
+
+
 
