@@ -9,10 +9,9 @@ Les traficiens du CCT créent aussi des PGT pour mettre en place des actions tra
 
 Dénomination des PGT
 ---------------------
-Les PGT sont organisés en arborescence.  
-Ils comportent 3 niveaux.
+Les PGT sont organisés en arborescence à 3 étages : **Nom, Sous-ensemble & Niveau**.  
 
-Le premier niveau désigne une catégorie de PGT, par exemple : 
+Le premier étage, **Nom**, désigne une catégorie de PGT, par exemple : 
 
 * 00S_FERMURG_Présignal
 * 02E_FERM
@@ -28,7 +27,7 @@ Les deux premiers caractères sont en principe utilisés pour désigner la caté
 
 Le troisième caractère désigne le secteur pour les PGT séctorisés qui sont majoritaires. Pour les PGT non sectorisés, ce caractère est souvent blanc. Peut-être devrait on être plus explicite et utiliser 'R' par exemple.
 
-Le second niveau désigne le secteur concerné, par exemple :  
+Le deuxième étage, **Sous-ensemble**, désigne le secteur concerné, par exemple :  
 
 * A14 Y Tunnel La Défense 
 * VOIE_BUS_TAXI_A6A
@@ -37,5 +36,5 @@ Le second niveau désigne le secteur concerné, par exemple :
 * A86I_A15 > A3                            
 * A1Y              
 
-Le troisième niveau désigne un PGT particulier qui peut être une variante ou une composante d'un ensemble d'actions liées entre elles.
+Le troisième étage, **Niveau** désigne un PGT particulier qui peut être une variante ou une composante d'un ensemble d'actions liées entre elles.
 
