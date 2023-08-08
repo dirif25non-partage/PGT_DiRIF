@@ -17,9 +17,9 @@ Qu'est-ce qu'un PGT ?
 ----------------------
 Un PGT est un objet de l'application SIRIUS qui sert à activier un ensemble de signaux dynamiques: PMV, B14, R1, R24, barière de fermeture de tunnel. Les PGT permettent donc d'afficher : 
 
-*des consignes que doivent respecter les automobilistes, 
-*des informations sur les voies fermées ou sur les fermetures programmées dans le futur ou 
-*des conseils comme celui de l'utilisation d'un itinéraire de délestage.
+* des consignes que doivent respecter les automobilistes, 
+* des informations sur les voies fermées ou sur les fermetures programmées dans le futur ou 
+* des conseils comme celui de l'utilisation d'un itinéraire de délestage.
 
 Les PGT peuvent aussi alimenter les informations diffusées sur l'application Sytadin.
 
