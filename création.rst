@@ -4,7 +4,7 @@ Les pratiques varient d'un PCTT à l'autre. On décrira ici ce qui est le plus c
 
 Qui
 ------
-Les PGT sont principalement créé dans les PCTT par les adjoints d'exploitation ou sous leur contrôle.  
+Les PGT sont principalement créés dans les PCTT par les adjoints d'exploitation ou sous leur contrôle.  
 Les traficiens du CCT créent aussi des PGT pour mettre en place des actions transversales ou de dimension régionale.
 
 Dénomination des PGT
@@ -37,4 +37,7 @@ Le deuxième étage, **Sous-ensemble**, désigne le secteur concerné, par exemp
 * A1Y              
 
 Le troisième étage, **Niveau** désigne un PGT particulier qui peut être une variante ou une composante d'un ensemble d'actions liées entre elles.
+
+Dans le journal des PGT les trois étages sont concaténés dans un champ avec un point “.” comme séparateur. Pour faciliter l’exploitation du journal, ill faudrait donc éviter d’utiliser le point dans les noms des PGT. Dans l’ensemble cette règle est déjà bien respectée, mais on a observé par exemple des points pour écrire 02E_FERM.PROG. ou A. PARE …
+
 
