@@ -7,6 +7,12 @@ Qui
 Les PGT sont principalement créés dans les PCTT par les adjoints d'exploitation ou sous leur contrôle.  
 Les traficiens du CCT créent aussi des PGT pour mettre en place des actions transversales ou de dimension régionale.
 
+Comment
+---------
+Le poste opérateur SIRIUS permet de créer et de paramétrer un PGT, c'est le moyen utilisé par les PCTT.
+
+Le CCT possède un outil pour créer des PGT en dehors de SIRIUS et de les importer par la suite. Cet outil est utile pour les actions qui consistent à créer systématiquement  des PGT pour un ensemble de sites. On l'utilise par exemple pour créer les PGT de présignalisation de vitesse pour les incidents en tunnel ou pour la mise en place des fermetures d'urgence progressives, en car de panne technique constituant un danger imminent.
+
 Dénomination des PGT
 ---------------------
 Les PGT sont organisés en arborescence à 3 étages : **Nom, Sous-ensemble & Niveau**.  
