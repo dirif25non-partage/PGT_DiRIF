@@ -47,10 +47,10 @@ Le troisième étage, **Niveau** désigne un PGT particulier qui peut être une 
 Dans le journal des PGT les trois étages sont concaténés dans un champ avec un point “.” comme séparateur. Pour faciliter l’exploitation du journal, ill faudrait donc éviter d’utiliser le point dans les noms des PGT. Dans l’ensemble cette règle est déjà bien respectée, mais on a observé par exemple des points pour écrire 02E_FERM.PROG. ou A. PARE …
 
 +------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3   | Header 4  |
+| Header row, column 1   | Header 2   | Header 3 | Header 4  |
 | (header rows optional) |            |          |          |
 +========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4|
+| body row 1, column 1   | column 2   | column 3 |  column 4|
 +------------------------+------------+----------+----------+
 | body row 2             | Cells may span columns.          |
 +------------------------+------------+---------------------+
