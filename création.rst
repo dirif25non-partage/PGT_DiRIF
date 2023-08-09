@@ -48,9 +48,9 @@ Dans le journal des PGT les trois étages sont concaténés dans un champ avec u
 
 Créations de PGT en 2023
 -------------------------
-En 2023, on identifie les nouveaux PGT activés, au sens où il n'avait pas été activés en 2022.
-Le tableau suivant représente pour le CTT et les 4 PCTT, le nombre de nouveau PGT par mois.
-Les PGT sont attribués à un PCTT en fonction de la 3ème lettre de leur nom.
+En 2023, on identifie les nouveaux PGT activés, au sens où ils n'avaient pas été activés en 2022.
+Le tableau suivant représente pour le CTT et les 4 PCTT, le nombre de nouveaux PGT par mois.
+Les PGT sont attribués à un PCTT en fonction de la 3ème lettre de leur nom (O,E,N,S, Cpour le CCT).
 
 +-+---------+---------+---------+---------+---------+-------+
 | |     J   |    F    |    M    |    A    |    M    |   J   |      
