@@ -46,6 +46,14 @@ Le troisième étage, **Niveau** désigne un PGT particulier qui peut être une 
 
 Dans le journal des PGT les trois étages sont concaténés dans un champ avec un point “.” comme séparateur. Pour faciliter l’exploitation du journal, ill faudrait donc éviter d’utiliser le point dans les noms des PGT. Dans l’ensemble cette règle est déjà bien respectée, mais on a observé par exemple des points pour écrire 02E_FERM.PROG. ou A. PARE …
 
+Créations de PGT en 2023
+-------------------------
+En 2023, on identifie les nouveaux PGT activés, au sens où il n'avait pas été activés en 2022.
+Le tableau suivant représente pour le CTT et les 4 PCTT, le nombre de nouveau PGT par mois.
+Les PGT sont attribués à un PCTT en fonction de la 3ème lettre de leur nom.
+
++-+---------+---------+---------+---------+---------+-------+
+| |     J   |    F    |    M    |    A    |    M    |   J   |      
 +-+---------+---------+---------+---------+---------+-------+
 |C|     1   |    13   |     5   |     5   |    14   |    10 |  
 +-+---------+---------+---------+---------+---------+-------+
@@ -58,18 +66,3 @@ Dans le journal des PGT les trois étages sont concaténés dans un champ avec u
 |S|     3   |     0   |     7   |     2   |     1   |     0 |
 +-+---------+---------+---------+---------+---------+-------+
 
-
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 |  column 4|
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+---------------------+
-
-S
