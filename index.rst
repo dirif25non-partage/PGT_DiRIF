@@ -8,6 +8,7 @@ PGT (Plan de Gestion de Trafic) dans SIRIUS
    création
    utilisation
    journaux
+   base
     
 
 Ce document vise à partager des informations au sein du DETT sur la création et l'utilisation des PGT.  
