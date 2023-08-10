@@ -9,15 +9,17 @@ Les traficiens du CCT créent aussi des PGT pour mettre en place des actions tra
 
 Comment
 ---------
-Le poste opérateur SIRIUS permet de créer et de paramétrer un PGT, c'est le moyen utilisé par les PCTT.
+Le poste opérateur SIRIUS permet de créer, de paramétrer ou de modifier un PGT, c'est le seul moyen disponible.  
+Lorsqu'un PGT est activé, il n'est pas possible de modifier les autres niveaux du même sous-ensemble.  
+Il n'est pas possible d'importer des PGT qui auraient été cécrit en dehors de SIRIUS.
 
-Le CCT possède un outil pour créer des PGT en dehors de SIRIUS et de les importer par la suite. Cet outil est utile pour les actions qui consistent à créer systématiquement  des PGT pour un ensemble de sites. On l'utilise par exemple pour créer les PGT de présignalisation de vitesse pour les incidents en tunnel ou pour la mise en place des fermetures d'urgence progressives, en car de panne technique constituant un danger imminent.
 
 Dénomination des PGT
 ---------------------
 Les PGT sont organisés en arborescence à 3 étages : **Nom, Sous-ensemble & Niveau**.  
+IL n'y a pas de règle sur la manière dont l'arborescence doit être conçue et les pratiques des PCTT diffèrent.
 
-Le premier étage, **Nom**, désigne une catégorie de PGT, par exemple : 
+Le premier étage, **Nom**, désigne un ensemble de PGT d'un même secteur, par exemple : 
 
 * 00S_FERMURG_Présignal
 * 02E_FERM
@@ -28,8 +30,20 @@ Le premier étage, **Nom**, désigne une catégorie de PGT, par exemple :
 * 10_PPA_ministere    
 * 13S_VOIE_DEDIEE,
 * 14E_PrésignalisationVitesse.   
-Les deux premiers caractères sont en principe utilisés pour désigner la catégorie de PGT.  '00' pour les fermeture d'urgence de tunnels,
-'02' pour les fermetures programmées pour travaux ...
+Les deux premiers caractères sont en principe utilisés pour désigner le type de PGT, selon les correspondances suivantes :
+
+* Fermeture urgence     00     
+* Test équipement de présignalisation     01
+* Fermeture programmée     02
+* PGT Travaux ou fermeture     03
+* Mesure de trafic régionale, délestage     05
+* PGT partenaire - Pollution     06
+* PNVIF (plan neige et verglas en île-de-france)    07
+* Condition Météo Idf     08
+* PPA  (plan particulier d'affichage)  10
+* PPI   (plan particulier d'intervention)  12 
+
+
 
 Le troisième caractère désigne le secteur pour les PGT séctorisés qui sont majoritaires. Pour les PGT non sectorisés, ce caractère est souvent blanc. Peut-être devrait on être plus explicite et utiliser 'R' par exemple.
 
