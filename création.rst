@@ -9,15 +9,15 @@ Les traficiens du CCT créent aussi des PGT pour mettre en place des actions tra
 
 Comment
 ---------
-Le poste opérateur SIRIUS permet de créer, de paramétrer ou de modifier un PGT, c'est le seul moyen disponible.  
+Le poste opérateur SIRIUS permet de créer, de paramétrer ou de modifier un PGT, c'est même le seul moyen disponible.  
+Il n'est pas possible d'importer des PGT qui auraient été décrits en dehors de SIRIUS.
 Lorsqu'un PGT est activé, il n'est pas possible de modifier les autres niveaux du même sous-ensemble.  
-Il n'est pas possible d'importer des PGT qui auraient été cécrit en dehors de SIRIUS.
-
 
 Dénomination des PGT
 ---------------------
 Les PGT sont organisés en arborescence à 3 étages : **Nom, Sous-ensemble & Niveau**.  
-IL n'y a pas de règle sur la manière dont l'arborescence doit être conçue et les pratiques des PCTT diffèrent.
+
+Il n'y a pas de règle sur la manière dont l'arborescence doit être conçue et les pratiques des PCTT diffèrent.
 
 Le premier étage, **Nom**, désigne un ensemble de PGT d'un même secteur, par exemple : 
 
@@ -44,8 +44,7 @@ Les deux premiers caractères sont en principe utilisés pour désigner le type 
 * PPI   (plan particulier d'intervention)  12 
 
 
-
-Le troisième caractère désigne le secteur pour les PGT séctorisés qui sont majoritaires. Pour les PGT non sectorisés, ce caractère est souvent blanc. Peut-être devrait on être plus explicite et utiliser 'R' par exemple.
+Le troisième caractère désigne le secteur pour les PGT séctorisés qui sont majoritaires. Pour les PGT non sectorisés, ce caractère est souvent blanc. *Peut-être devrait-on être plus explicite et utiliser 'R' par exemple.*
 
 Le deuxième étage, **Sous-ensemble**, désigne le secteur concerné, par exemple :  
 
@@ -56,15 +55,16 @@ Le deuxième étage, **Sous-ensemble**, désigne le secteur concerné, par exemp
 * A86I_A15 > A3                            
 * A1Y              
 
-Le troisième étage, **Niveau** désigne un PGT particulier qui peut être une variante ou une composante d'un ensemble d'actions liées entre elles.
+Le troisième étage, **Niveau** désigne un PGT particulier qui peut être une variante ou une composante d'un ensemble d'actions liées entre elles. 
+Pour les fermetures programmées, il s'agit souvent des étapes successives de la fermeture effectuée par une équipe d'exploitation.
 
-Dans le journal des PGT les trois étages sont concaténés dans un champ avec un point “.” comme séparateur. Pour faciliter l’exploitation du journal, ill faudrait donc éviter d’utiliser le point dans les noms des PGT. Dans l’ensemble cette règle est déjà bien respectée, mais on a observé par exemple des points pour écrire 02E_FERM.PROG. ou A. PARE …
+Dans le journal des PGT les trois étages sont concaténés dans un champ avec un point “.” comme séparateur. Pour faciliter l’exploitation du journal, il faudrait donc éviter d’utiliser le point dans les noms des PGT. Dans l’ensemble cette règle est déjà respectée, mais on a observé par exemple des points pour écrire 02E_FERM.PROG. ou A. PARE …
 
 Créations de PGT en 2023
 -------------------------
 En 2023, on identifie les nouveaux PGT activés, au sens où ils n'avaient pas été activés en 2022.
 Le tableau suivant représente pour le CTT et les 4 PCTT, le nombre de nouveaux PGT par mois.
-Les PGT sont attribués à un PCTT en fonction de la 3ème lettre de leur nom (O,E,N,S, Cpour le CCT).
+Les PGT sont attribués à un PCTT en fonction de la 3ème lettre de leur nom (O,E,N,S, C pour le CCT).
 
 +-+---------+---------+---------+---------+---------+-------+
 | |     J   |    F    |    M    |    A    |    M    |   J   |      
