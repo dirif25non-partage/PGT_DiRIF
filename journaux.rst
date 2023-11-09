@@ -4,12 +4,12 @@ Archivage des données
 ---------------------
 L'application SIRIUS conserve la trace des activations et des désactivations des PGT. 
 Marc Koenig crée chaque mois un fichier .XLSX pour faire des statistiques sur les activations de PGT.
-Depuis janvier 2022, Marc partage ce fichier sur OSMOSE : 
+Depuis janvier 2022, Marc partage ces fichiers sur OSMOSE : 
 
 .. _a link:   https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3586253&mids=&portlet=p_3395683&types=ALL
 
-Les fichiers jusqu'en avril 2023 ne contiennent que les activations de PGT, depuis mai figurent aussi les désactivations. 
-Le champ DESCRIPTION commence systématiquement par l'un des mots : Activation ou Désactivation.
+Les fichiers, jusqu'en avril 2023, ne contiennent que les activations de PGT. Depuis le mois de mai, figurent aussi les désactivations. 
+Le champ DESCRIPTION commence systématiquement par l'un des mots : **Activation** ou **Désactivation**.
 
 On ne trouve pas toujours la désactivation après une activation ce qui appelle une explication, on y reviendra ci-dessous.
 
@@ -25,14 +25,14 @@ Les champs utiles pour exploiter les données sont les suivants :
 
 * 'SECTEUR' 
 * 'HORODATE_ACCES_FONCTION' (date à la seconde)
-* 'NOM_COMPTE' (Nom de l'OST connecté à SIRIUS ou PASSERELLE SAGTU, il faut savoir que les OST ne s'identifient pas toujours et qu'un même compte reste parfois ouvert perdant plusieurs vacations.)
+* 'NOM_COMPTE' (Nom de l'OST connecté à SIRIUS ou PASSERELLE SAGTU, il faut savoir que les OST ne se déconnectent pas systématiquement et qu'un même compte reste parfois ouvert perdant plusieurs vacations.)
 * 'DESCRIPTION'  (Désignation du PGT, les 3 étages séparés par des points ".".)
 
 Interprétation des données 
 --------------------------
 Pour interpréter les journaux des PGT, il faut bien comprendre ce qui s'y trouve enregistré.
 
-On identifie ci dessous quelques curiosité qui appellent des explications.
+On identifie ci dessous quelques curiosités qui appellent des explications.
 
 Sequence d'activation et désactivation
 .........................................
