@@ -22,12 +22,12 @@ Un PGT est un objet de l'application SIRIUS qui sert à activier un ensemble de 
 * des informations sur les voies fermées ou sur les fermetures programmées dans le futur ou 
 * des conseils comme celui de l'utilisation d'un itinéraire de délestage.
 
-Les PGT peuvent aussi créer des flash et alimenter les informations cartographiques diffusées sur l'application Sytadin.
+Les PGT peuvent aussi créer des flashs et alimenter les informations cartographiques diffusées sur l'application Sytadin.
 
-Les OST activent ou désactivent des PGT en concertation avec les RI (CEI) pour mettre en place la signalisation dynamique adaptée aux interventions sur la route telles qu'un balisage de fermeture pour réaliser des travaux.
+Les OST activent ou désactivent des PGT en concertation avec les RI (CEI) pour mettre en place la signalisation dynamique adaptée aux interventions sur la route, telles qu'un balisage de fermeture pour réaliser des travaux.
 
-Le SAGTU propose (Plan d'ACtion) et permet de déclencher un PGT, en cas d'incident dans un tunnel.  
+Le SAGTU propose (Plan d'Actions) et permet d'activer un PGT, en cas d'incident dans un tunnel.  
 
 Quand un OST déclare un incident (panne, accident, objet sur la chaussée ...) SIRIUS déclenche des affichages sur les PMV, mais il ne s'agit pas de PGT au sens de SIRIUS.
 
-Dans ce document, on aborde la manière dont les PGT sont créés et utilisés. On examine également l'exploitation des journaux pour l'analyse de l'activité d'exploitation du réseau.
+Dans ce document, on aborde la manière dont les PGT sont créés et utilisés. On examine également l'exploitation des journaux pour l'analyse de l'activité d'exploitation du réseau routier.
