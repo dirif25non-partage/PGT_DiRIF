@@ -1,5 +1,11 @@
 Création de PGT
 ===============
+
+.. toctree::
+   :hidden:
+
+  denomination
+
 Les pratiques varient d'un PCTT à l'autre. On décrira ici ce qui est le plus courant dans la mesure où l'un des objectifs est de guider les acteurs vers une pratique commune homogène.
 
 Qui
