@@ -10,7 +10,8 @@ Depuis janvier 2022, Marc partage ces fichiers sur OSMOSE.
     
 .. _Lien OSMOSE: https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3588697&mids=&portlet=p_3395683&types=ALL
 
-`Lien OSMOSE2<https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3586253&mids=&portlet=p_3395683&types=ALL>`_
+
+`Lien OSMOSE2 <_https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3586253&mids=&portlet=p_3395683&types=ALL>`_
 
 
 
