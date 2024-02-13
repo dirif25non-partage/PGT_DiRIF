@@ -3,8 +3,12 @@ Journaux des activations et désactivations des PGT
 Archivage des données
 ---------------------
 L'application SIRIUS conserve la trace des activations et des désactivations des PGT. 
-Marc Koenig crée chaque mois un fichier .XLSX pour faire des statistiques sur les activations de PGT.
-Depuis janvier 2022, Marc partage ces fichiers sur OSMOSE : 
+Marc Koenig (UCTIR) crée chaque mois un fichier .XLSX pour faire des statistiques sur les activations de PGT.
+Depuis janvier 2022, Marc partage ces fichiers sur OSMOSE. 
+
+Test hyperlink: `Lien OSMOSE <SO>`_.
+    
+.. _SO: https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3586253&mids=&portlet=p_3395683&types=ALL
 
 .. _a link:   https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3586253&mids=&portlet=p_3395683&types=ALL
 
