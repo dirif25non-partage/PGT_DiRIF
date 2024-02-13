@@ -10,7 +10,9 @@ Depuis janvier 2022, Marc partage ces fichiers sur OSMOSE.
     
 .. _Lien OSMOSE: https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3588697&mids=&portlet=p_3395683&types=ALL
 
-.. _a link:   https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3586253&mids=&portlet=p_3395683&types=ALL
+`Lien OSMOSE2<https://osmose.numerique.gouv.fr/jcms/p_3395684/fr/mte-tunnels-idf-fond-documentaire?documentKinds=&explorerCurrentCategory=p_3586253&mids=&portlet=p_3395683&types=ALL>`_
+
+
 
 Les fichiers, jusqu'en avril 2023, ne contiennent que les activations de PGT. Depuis le mois de mai, figurent aussi les désactivations. 
 Le champ DESCRIPTION commence systématiquement par l'un des mots : **Activation** ou **Désactivation**.
